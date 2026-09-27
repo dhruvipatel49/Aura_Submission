@@ -1,0 +1,8 @@
+# Ignore massive datasets and zips
+dataset/
+output/
+*.zip
+.venv*/
+__pycache__/
+*.pkl
+*.model
